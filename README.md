@@ -1,5 +1,7 @@
 # altschool-vue-assignment
 
+### https://vue-buchcounter-app.netlify.app/counter
+
 ## Project setup
 ```
 npm install
